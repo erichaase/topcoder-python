@@ -1,0 +1,15 @@
+[
+  [["AAAAAA"], ["JJJJJ"], 4, ["AACEFHJ"]],
+  [["14ABCD", "25EFGH", "36IJKL"], ["ABCD14", "EFGH25", "IJKL36"], 4, ["14ABCD14", "25EFGH25", "36IJKL36"]],
+  [[" 32ygfd", "3uh53G:", ")O83gh3"], ["hsd$*(PH", "3G:$)(*P", "gh86$PBB"], 3, [" 32ygmd$*(PH", "3uh53G:$)(*P", ")O83gh76$PBB"]],
+  [["A"], ["A"], 0, ["AA"]],
+  [[" "], ["~~"], 1, ["O~"]],
+  [[" 32ygfd", "3uh53G:", ")O83gh3"], ["hsd$*(PH", "3G:$)(*P", "gh86$PBB"], 3, [" 32ygmd$*(PH", "3uh53G:$)(*P", ")O83gh76$PBB"]],
+  [["AAAAAA"], ["JJJJJ"], 4, ["AACEFHJ"]],
+  [[" 32ygfd", "3uh53G:", ")O85gh3"], ["hsd$*(3PH", "3G:$4)(*P", "543793975"], 3, [" 32ygmd$*(3PH", "3uh53G:$4)(*P", ")O85[N3793975"]],
+  [["BB"], ["CC"], 1, ["BCC"]],
+  [[" 32yagfd", "3uhd53G:", ")O833gh3"], ["hsd$*(PH", "3G:$)(*P", "gh86$PBB"], 5, [" 32vgf:4(PH", "3uh\\;70,(*P", ")O8<EPG'PBB"]],
+  [["AA"], ["BA"], 1, ["ABA"]],
+  [["1489AG", "25FJUZ", "369GRw"], ["ABCD14", "EFGH25", "IJKL36"], 4, ["14:=BE14", "25FHML25", "36<HNU36"]],
+  [["aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"], ["bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"], 6, ["aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"]]
+]
