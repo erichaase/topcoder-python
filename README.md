@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/erichaase/topcoder-python.svg)](https://travis-ci.org/erichaase/topcoder-python)
+
 # Description
 TopCoder solutions written in Python
 
